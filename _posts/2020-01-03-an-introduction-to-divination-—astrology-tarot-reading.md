@@ -1,7 +1,7 @@
 ---
 layout: post
-title: An Introduction to Divination —Astrology & Tarot Reading
-author: john_doe
+title: An Introduction to Divination - Astrology & Tarot Reading
+author: dan_urbanowicz
 date: '2020-01-03 14:42:56'
 intro_paragraph: '![Divination](/assets/img/uploads/am_photos_7_fvfuh1-1-.jpg)'
 ---
