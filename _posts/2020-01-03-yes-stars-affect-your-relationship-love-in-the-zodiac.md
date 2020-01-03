@@ -7,13 +7,10 @@ intro_paragraph: >-
   When you meet someone and chemistry works it’s magic, but there is more to
   your astrological compatibility than just your Sun Signs. Certainly, if you
   have compatible Sun Signs, you both have a head start. You will have
-  compatible goals and career preferences. We measure Sun Si g,n compatibility
-  by the elements of the signs. The fire signs are Aries, Leo and Sagittarius,
-  and these active exciting signs are indeed compatible with each other.
+  compatible goals and career preferences. We measure Sun Sign compatibility by
+  the elements of the signs.
 ---
-
-
-The Air signs, Gemini, Libra and Aquarius, will have excellent communication with each other. The Water signs, Cancer; Scorpio and Pisces, will all be emotionally in tune with each other, while the Earth signs, Taurus, Virgo and Capricorn, will share a mutual desire for stability and security.
+The fire signs are Aries, Leo and Sagittarius, and these active exciting signs are indeed compatible with each other. The Air signs, Gemini, Libra and Aquarius, will have excellent communication with each other. The Water signs, Cancer; Scorpio and Pisces, will all be emotionally in tune with each other, while the Earth signs, Taurus, Virgo and Capricorn, will share a mutual desire for stability and security.
 
 But this alone is not enough to ensure a relationship. Millions of people share your Sun Sign and many of these would be completely wrong for you. You will never even meet most of them, because there will be no other connection in your horoscopes. This is the crux of the matter — if you meet someone, the signs are already there in both your-horoscopes.
 
