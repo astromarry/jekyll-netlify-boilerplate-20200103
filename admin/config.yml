@@ -24,8 +24,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "author"
         widget: "select"
         options:
-          - { label: "Samyukta", value: "samyukta" }
-          - { label: "Bhavya", value: "bhavya" }
+          - { label: "Samyukta", value: "dan_urbanowicz" }
+          - { label: "Bhavya", value: "john_doe" }
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss"}
       - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
