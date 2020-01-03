@@ -3,13 +3,16 @@ layout: post
 title: 'Scorpio Vs Tarus: Which Woman Are you Dating Today?'
 author: dan_urbanowicz
 date: '2020-01-03 14:18:00'
-intro_paragraph: Are you dating a woman?
+intro_paragraph: >-
+  Are you dating a Tarus woman? Are you dating a Scorpio woman? By understanding
+  both the good traits and the bad qualities associated with Tarus Vs Scorpio,
+  it helps your personal life.
 ---
-### Are you Dating a Tarus?
-
 Those women born under the sign of the bull have many wonderful traits. The Tarus women can be great dates as well as wonderful lifelong companions. Even so, it is important for all men to understand the unique nature of the Taurus women.
 
-These women have many admirable qualities, but there are some negative characteristics in the mix as well. By understanding both the good traits and the bad qualities associated with Tarus, it helps your personal life.
+These women have many admirable qualities, but there are some negative characteristics in the mix as well. 
+
+### Are you Dating a Tarus?
 
 This star sign men can begin to understand the total package and get the most out of their relationships. One of the most positive traits of the Taurus woman is her patient nature.
 
