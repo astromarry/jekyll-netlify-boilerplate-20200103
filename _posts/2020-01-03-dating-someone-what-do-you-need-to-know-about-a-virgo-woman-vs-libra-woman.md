@@ -5,9 +5,9 @@ author: john_doe
 date: '2020-01-03 14:44:36'
 intro_paragraph: '![Dating someone?](/assets/img/uploads/hear_p3i4ju-1-.jpg)'
 ---
-### Are you dating a Virgo?
-
 Those women born under the sign of Virgo have many unique qualities.The own many traits that make them wonderful lovers. Even so, it is important for men to understand all of the qualities. Both the good and the bad — that make the Virgo woman’s personality.
+
+### Are you dating a Virgo?
 
 The practical nature of a Virgo woman would help them get any job done. They are shy and modest in their personal lives. Many men find it difficult to break through this veneer of modesty and shyness. Being born under sign of virgin, the Virgo women are usually very reserved.
 
