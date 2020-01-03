@@ -47,7 +47,7 @@ compress_html:
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "_posts" # an empty string here means all files in the project EDIT 20200103-1740
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post" # set the correct default template for a post
@@ -83,3 +83,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  
