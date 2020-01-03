@@ -4,9 +4,9 @@ title: What Does Your Sun Sign Say About You
 author: john_doe
 date: '2020-01-03 12:45:20'
 ---
-### Sagittarius
-
 The Sagittarius man is an adventurer who longs to seek out many truths about the world. In his quest for knowledge, he also searches for noble causes and the protection of freedoms. Gaining the respect of other people around him is important to him partly because of his personal commitment to the ethical facets of life. He is generous under most circumstances as well as courteous to a fault.
+
+### Sagittarius 
 
 The Sagittarius man sometimes experiences a wanderlust or need to stray from the straight and narrow. When this happens, he searches for aspects outside the ordered realm of life and strays from conformity and the norm. Fortunately, this is not a common occurrence for him.
 
