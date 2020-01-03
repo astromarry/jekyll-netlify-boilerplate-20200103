@@ -5,7 +5,7 @@ author: dan_urbanowicz
 date: '2020-01-03 14:18:00'
 intro_paragraph: Are you dating a woman?
 ---
-## Are you Dating a Tarus?
+### Are you Dating a Tarus?
 
 Those women born under the sign of the bull have many wonderful traits. The Tarus women can be great dates as well as wonderful lifelong companions. Even so, it is important for all men to understand the unique nature of the Taurus women.
 
