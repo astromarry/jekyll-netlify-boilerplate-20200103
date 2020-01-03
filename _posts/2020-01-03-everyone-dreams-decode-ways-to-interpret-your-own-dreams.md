@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Everyone dreams! Decode Ways To Interpret Your Own Dreams
+title: Decode Ways To Interpret Your Own Dreams
 author: dan_urbanowicz
 date: '2020-01-03 14:35:43'
 intro_paragraph: >-
-  Anyone who has ever woken from a strange dream wants to know what it mean.
-  Some people might consult a psychoanalyst, or look up symbols in a dream
-  dictionary, or wait for divine inspiration.
+  Everyone dreams. Anyone who has ever woken from a strange dream wants to know
+  what it mean. Some people might consult a psychoanalyst, or look up symbols in
+  a dream dictionary, or wait for divine inspiration.
 ---
-While you are sleeping, your brain is busy working to produce images, sounds, feelings and ideas. Some people remember more dreams than others but everyone remembers a dream wants to know “What does this mean?” -lc answer this question, you don’t need to go to an expert or consult a list of symbols you simply need to learn some basic principles.
+While you are sleeping, your brain is busy working to produce images, sounds, feelings and ideas. Some people remember more dreams than others but everyone remembers a dream wants to know “What does this mean?” Answer this question, you don’t need to go to an expert or consult a list of symbols you simply need to learn some basic principles.
 
-## Are you still dreaming?
+### Are you still dreaming?
 
 Dreams have been puzzled over for centuries. In Homer’s Odyssey, Penelope has a dream of an eagle, interpreted as the return of her husband. In the Bible, the story of Joseph in the book of Genesis revolves around his dreams and his ability to interpret the dreams of others. The Bible suggests that God speaks through dreams and only God gives the power to interpret them.
 
@@ -20,7 +20,7 @@ But when dreams can seem so outlandish and illogical, how do they reflect your e
 
 These forbidden and suppressed ideas make their way out in dreams when the conscious mind is sleeping and can’t control them. Dreams aren’t the voice of God, they are the voice of your unconscious mind, and the task of the analyst is to help interpret them.
 
-## It’s only a State of Mind
+### It’s only a State of Mind
 
 But does dream interpretation really need a special gift from the gods or years of training as a psychoanalyst? Why can’t you just interpret your own dreams? This wish to understand what happens in your own mind has resulted in hundreds, if not thousands, of dream dictionaries Have you had a dream about flying? Ask the dream dictionary what a flying dream means. Did you dream about being chased, or falling, or losing teeth?
 
@@ -28,7 +28,7 @@ Check the dream dictionary! The problem with dream dictionaries isthat they give
 
 The best way to understand your own dreams isn’t to look up each element in a dream dictionary. It’s to know how information is presented in dreams so that you can decode it yourself.
 
-## Do you Dream a lot?
+### Do you Dream a lot?
 
 Honestly, and most importantly, whatever you remember about your dream isn’t accurate. As soon as your conscious mind begins to process the d ream, it changes. You’ve experienced this if you’ve ever tried to tell another person about your dream. What seemed like a coherent narrative suddenly seems to be a series of disjointed moments, and pretty soon what you remember is what you said aloud, and the original dream has vanished forever.
 
@@ -36,7 +36,7 @@ Secondly, dreams do include symbols, but not always in the way they are presente
 
 Thirdly, dreams are more often about feelings than events Many dreams take place in familiar surroundings or feature people known to the dreamer in an unfamiliar setting. In most cases, the dream is about neither the place nor the person, but about the feelings associated with that person and place. This is the reason that dream dictionaries aren’t always useful. If you dream about your cousi n„ a list of symbols can’t possibly know how you feel about that person, and that’s what’s important in understanding the dream.
 
-## Why do I get Dreams?
+### Why do I get Dreams?
 
 Finally, the dream is about you. There are oft-quoted examples of “prophetic” dreams, where a future event is revealed, but these are few and far between, and may involve the dream being interpreted in hindsight. For the purposes of interpreting your own dreams, it’s best to assume that whatever happens in the dream is what’s happening in your own mind. If you dream about your cousin, the dream is about the part of you that loves or hates or is most similar to that person, and not actually about your cousin at all.
 
