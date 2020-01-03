@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Pay
+title: Services
 permalink: /about
 section: about
 intro_paragraph: >-
-  Learn about our services
+  Click here to pay for our services. 
 
 
   <div class="im-checkout-layout layout-71"> <div class="layout-vertical"> <div
