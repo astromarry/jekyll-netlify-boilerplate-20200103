@@ -19,6 +19,6 @@ intro_paragraph: >-
   !important;">Pay ₹1499</a></div> </div> </div>
 
 
-  </br>
+  <br>
 ---
 Let the universe help you on your way to success. Find out what changes this season will bring you. Details and perspectives for your personal development, growth and positive forceful changes.
