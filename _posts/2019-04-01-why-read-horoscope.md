@@ -2,7 +2,7 @@
 layout: post
 title: Why Read Horoscope?
 author: john_doe
-date: '2020-01-03 14:15:08'
+date: '2019-04-01 14:15:08'
 intro_paragraph: '![Horoscope](/assets/img/uploads/am_photos_9_hasujp-1-.jpg)'
 ---
 The ancient Greeks believed that a person’s life was predetermined and predictable by the positioning of the sun, moon and stars at the time of a person’s birth. They would use the positioning of the sun, moon and various constellations to predict the course a person’s life would take.
