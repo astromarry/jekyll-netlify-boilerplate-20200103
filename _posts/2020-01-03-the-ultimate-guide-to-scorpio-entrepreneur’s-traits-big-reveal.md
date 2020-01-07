@@ -2,7 +2,7 @@
 layout: post
 title: 'The Ultimate Guide To Scorpio Entrepreneur’s Traits: Big Reveal'
 author: john_doe
-date: '2020-01-03 13:07:13'
+date: '2019-12-01 13:07:13'
 ---
 Ready to embark on your entrepreneurial adventure? Your to-do list surely includes drafting a business plan and hiring employees. But don’t forget to read up on the zodiac forces that drive you, Scorpio.
 
