@@ -2,7 +2,7 @@
 layout: post
 title: Common Traits of the Leo Woman and the Aries Man
 author: john_doe
-date: '2020-01-03 12:43:09'
+date: '2019-10-10 12:43:09'
 intro_paragraph: >-
   The Leo woman and the Aries man have a few things in common. If you want to
   find out what they are, continue reading. You may be especially curious to
