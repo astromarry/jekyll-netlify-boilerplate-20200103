@@ -2,7 +2,7 @@
 layout: post
 title: Are you a Pisces Woman?
 author: john_doe
-date: '2020-01-03 14:34:28'
+date: '2019-09-06 14:34:28'
 intro_paragraph: ''
 ---
 The Pisces woman, romantic and passionate, makes the perfect partner for many other signs in the Zodiac. However, just because a match is perfect for her partner, it doesn’t mean it’s best for the Pisces. Some pairings benefit the Pisces woman greatly, while there are others she should avoid at all costs. The Pisces woman needs a stable partner who shows understanding and provides her with the emotional stability she sometimes lacks. This creates a harmonious relationship in which she thrives.
