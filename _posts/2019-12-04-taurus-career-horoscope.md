@@ -2,7 +2,7 @@
 layout: post
 title: Taurus Career Horoscope
 author: john_doe
-date: '2020-01-03 14:12:14'
+date: '2019-12-04 14:12:14'
 ---
 If you were born between 21st April and 21st May you’ll come under the earth sign of Taurus. As a typical Taurean, you will be ambitious but you will also need the security of a steady, preferably high, income and predictable routines
 
