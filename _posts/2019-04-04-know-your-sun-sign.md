@@ -2,7 +2,7 @@
 layout: post
 title: Know Your Sun Sign
 author: john_doe
-date: '2020-01-03 12:54:53'
+date: '2019-04-04 12:54:53'
 intro_paragraph: >-
   The field of astrology is a fascinating one, and there are many things to
   learn about this ancient art. The astrological world places great importance
