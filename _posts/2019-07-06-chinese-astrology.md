@@ -2,7 +2,7 @@
 layout: post
 title: Chinese Astrology
 author: john_doe
-date: '2020-01-03 14:46:23'
+date: '2019-07-06 14:46:23'
 intro_paragraph: '![Chinese Astrology](/assets/img/uploads/am_photos_2_z7hllz-1-.jpg)'
 ---
 In Chinese Astrology, More Than The Twelve Animals Chinese astrology is a complex subject. There is much more to it than the twelve animal signs that you often see on placements in a Chinese restaurant. Some of the other influences that come into play are the Five Elements and the yinfyang duality. You also need to understand something about Chinese philosophy and thought in order to really understand how to apply Chinese astrology to your life.
