@@ -2,7 +2,7 @@
 layout: post
 title: Science of Compassion - Tibetan Medicine
 author: john_doe
-date: '2019-07-24 14:38:05'
+date: '2019-03-09 14:38:05'
 intro_paragraph: '![Tibetan Medicine](/assets/img/uploads/am_photos_5_xyy1ag-1-.jpg)'
 ---
 A few years ago, when Dr. Moses Judah Folkman found himself in the eye of a media storm, few Tibetan doctors were surprised. At the time, a New York Times cover story, quoting DNA co-discoverer James Watson, trumpeted that Folkman”s pioneering cancer treatment, originally discovered in the early 1970s, was so promising that it could cure cancer in two years. In fact, Dr.
