@@ -2,7 +2,7 @@
 layout: post
 title: Ridiculous Secrets About CAPRICORNS
 author: dan_urbanowicz
-date: '2020-01-03 12:40:37'
+date: '2018-12-01 12:40:37'
 intro_paragraph: >-
   Those born between the dates of December 22nd January19th fall under the sun
   sign of Capricorn. Ruled by the planet Saturn, Capricorns are earth signs.
