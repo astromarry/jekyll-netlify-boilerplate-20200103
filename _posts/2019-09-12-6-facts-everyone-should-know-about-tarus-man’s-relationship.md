@@ -2,7 +2,7 @@
 layout: post
 title: 6 Facts Everyone Should Know About Tarus Man’s Relationship
 author: john_doe
-date: '2020-01-03 13:02:32'
+date: '2019-09-12 13:02:32'
 intro_paragraph: >-
   If you wonder what it would be like to get romantically involved with a Taurus
   man, let the information that follows fill you in. Learn about what type of
