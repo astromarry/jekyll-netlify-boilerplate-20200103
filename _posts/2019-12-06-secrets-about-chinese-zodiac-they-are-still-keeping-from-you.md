@@ -2,7 +2,7 @@
 layout: post
 title: Secrets About Chinese Zodiac They Are Still Keeping From You
 author: john_doe
-date: '2020-01-03 14:25:37'
+date: '2019-12-06 14:25:37'
 ---
 The Chinese Zodiac is made up of twelve animal signs, one for each year of a twelve-year cycle. The fifth sign is the sign of the Dragon. Each animal sign is paired with an biannual element. Each element predominates for two years at a time. The elements of the Chinese Zodiac are Earth, Metal, Water, Wood, and Fire.
 
