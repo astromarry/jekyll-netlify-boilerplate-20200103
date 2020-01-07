@@ -2,7 +2,7 @@
 layout: post
 title: Discover The INNER You
 author: john_doe
-date: '2020-01-03 14:10:03'
+date: '2019-07-07 14:10:03'
 intro_paragraph: '![Discover The INNER You](/assets/img/uploads/life_bqsc9e-1-.jpg)'
 ---
 Many millenials are nowadays involved in explorations of their inner consciousness. If you delve into any media, you’re likely to exposed to the terms “inner self’ and/or “inner being”. Try reading books, videos, magazine articles, live seminars, retreats, etc. about inner self.
