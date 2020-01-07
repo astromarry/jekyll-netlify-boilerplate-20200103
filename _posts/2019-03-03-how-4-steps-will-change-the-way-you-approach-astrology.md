@@ -2,7 +2,7 @@
 layout: post
 title: How 4 Steps Will Change The Way You Approach Astrology
 author: john_doe
-date: '2020-01-03 13:23:33'
+date: '2019-03-03 13:23:33'
 intro_paragraph: '![Approach](/assets/img/uploads/approach_dv60sp-1-.jpg)'
 ---
 If you are interested in studying astrology, your friends and family may think you are crazy without realizing that the study of astrology dates back to ancient times and that it seems to be making a comeback among Millennial and Generation Z. You persist anyway, not knowing where to start and asking too many questions all at once.
