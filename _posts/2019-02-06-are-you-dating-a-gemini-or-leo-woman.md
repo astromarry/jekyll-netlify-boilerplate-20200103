@@ -2,7 +2,7 @@
 layout: post
 title: Are you Dating a Gemini Or Leo Woman?
 author: john_doe
-date: '2020-01-03 14:07:59'
+date: '2019-02-06 14:07:59'
 intro_paragraph: '![Dating Gemini Or Leo ](/assets/img/uploads/leo_baymdr-1-.jpg)'
 ---
 The women in every man’s lives and enhance the power of their relationships. So, between 2 kinds of sun-signs which one are you dating today?
