@@ -2,7 +2,7 @@
 layout: post
 title: Can Astrology Help you Choose Right Pet?
 author: john_doe
-date: '2020-01-03 13:25:51'
+date: '2019-05-03 13:25:51'
 intro_paragraph: '![Pets](/assets/img/uploads/pet_kxbd0t-1-.jpg)'
 ---
 While prospective pets never ask “what’s your sun sign?”, prospective pet owners may benefit from checking what sign they were born under. It can be a good guide to choosing the right kind of pet for you and your lifestyle.
