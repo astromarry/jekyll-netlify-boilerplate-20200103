@@ -2,7 +2,7 @@
 layout: post
 title: What you might not know about a Aries Woman
 author: john_doe
-date: '2020-01-03 13:08:22'
+date: '2019-08-01 1:08:22'
 intro_paragraph: '![Aries](/assets/img/uploads/am_photos_11_dh7qlz-1-.jpg)'
 ---
 If you’re looking for a wilting violet or a damsel in distress to give your love to… look elsewhere. You vvill not find these qualities in an Aries woman. Rather, the Aries woman—in love and elsewhere—is courageous and bold. She does riot need a man to rescue her (thank you very much). But she may well rescue YOU.
