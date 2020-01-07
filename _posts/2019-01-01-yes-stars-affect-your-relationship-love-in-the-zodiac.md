@@ -2,7 +2,7 @@
 layout: post
 title: Yes! Stars Affect Your Relationship. Love in the Zodiac?
 author: john_doe
-date: '2020-01-03 12:59:15'
+date: '2019-01-01 12:59:15'
 intro_paragraph: >-
   When you meet someone and chemistry works it’s magic, but there is more to
   your astrological compatibility than just your Sun Signs. Certainly, if you
