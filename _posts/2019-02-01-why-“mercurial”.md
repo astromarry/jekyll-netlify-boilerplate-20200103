@@ -2,7 +2,7 @@
 layout: post
 title: Why “Mercurial”?
 author: john_doe
-date: '2020-01-03 14:33:04'
+date: '2019-02-01 14:33:04'
 intro_paragraph: '![Mercurial](/assets/img/uploads/am_photos_3_rydmn2-1-.jpg)'
 ---
 How you communicate with other people likely has a lot to do with where Mercury is positioned in your chart.
