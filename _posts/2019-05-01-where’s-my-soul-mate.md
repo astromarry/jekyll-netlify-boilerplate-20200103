@@ -2,7 +2,7 @@
 layout: post
 title: Where’s My Soul Mate
 author: john_doe
-date: '2020-01-03 13:20:59'
+date: '2019-05-01 1:20:59'
 intro_paragraph: '![](/assets/img/uploads/am_photos_1_mnqtnm-1-.jpg)'
 ---
 There have been poems, books, songs, movies, paintingtIthere have been millions of words, including these, written to describe, explain, extol, debunk, exclaim, and recount with enraptured spirit the experience of finding, meeting, stumbling onto, searching for and even marrying one’s soul mate.
