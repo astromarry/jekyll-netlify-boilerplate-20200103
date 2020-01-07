@@ -2,7 +2,7 @@
 layout: post
 title: Decode Ways To Interpret Your Own Dreams
 author: dan_urbanowicz
-date: '2020-01-03 14:35:43'
+date: '2019-06-06 14:35:43'
 intro_paragraph: >-
   Everyone dreams. Anyone who has ever woken from a strange dream wants to know
   what it mean. Some people might consult a psychoanalyst, or look up symbols in
