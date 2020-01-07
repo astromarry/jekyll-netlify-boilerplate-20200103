@@ -2,7 +2,7 @@
 layout: post
 title: To Those Who Want To Start Gemstones But Are Afraid To Get Started
 author: john_doe
-date: '2020-01-03 13:05:03'
+date: '2019-11-01 13:05:03'
 intro_paragraph: '![Gemstones](/assets/img/uploads/am_photos_6_vzigf7-1-.jpg)'
 categories: ''
 ---
