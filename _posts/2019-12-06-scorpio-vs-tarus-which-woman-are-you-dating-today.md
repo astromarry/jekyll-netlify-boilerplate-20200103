@@ -2,7 +2,7 @@
 layout: post
 title: 'Scorpio Vs Tarus: Which Woman Are you Dating Today?'
 author: dan_urbanowicz
-date: '2020-01-03 14:18:00'
+date: '2019-12-06 14:18:00'
 intro_paragraph: >-
   Are you dating a Tarus woman? Are you dating a Scorpio woman? By understanding
   both the good traits and the bad qualities associated with Tarus Vs Scorpio,
