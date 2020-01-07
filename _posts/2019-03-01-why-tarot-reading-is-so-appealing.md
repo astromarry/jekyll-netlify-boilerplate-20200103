@@ -2,7 +2,7 @@
 layout: post
 title: Why Tarot Reading Is So Appealing?
 author: john_doe
-date: '2020-01-03 14:32:05'
+date: '2019-03-01 14:32:05'
 ---
 According to a recent poll in Britain, one in four people have said they’ve consulted a psychic and it’s a similar-story in many other countries across the world. One branch of the psychic world which appears to be particularly popular is tarot reading.
 
