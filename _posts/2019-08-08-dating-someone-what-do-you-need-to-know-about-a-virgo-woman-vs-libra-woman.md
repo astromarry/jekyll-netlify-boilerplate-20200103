@@ -2,7 +2,7 @@
 layout: post
 title: Dating someone? Virgo woman Vs Libra woman
 author: john_doe
-date: '2020-01-03 14:44:36'
+date: '2019-08-08 14:44:36'
 intro_paragraph: '![Dating someone?](/assets/img/uploads/hear_p3i4ju-1-.jpg)'
 ---
 Those women born under the sign of Virgo have many unique qualities.The own many traits that make them wonderful lovers. Even so, it is important for men to understand all of the qualities. Both the good and the bad — that make the Virgo woman’s personality.
