@@ -2,7 +2,7 @@
 layout: post
 title: What’s the Tarot Cards of the Major Arcana?
 author: dan_urbanowicz
-date: '2020-01-03 14:06:32'
+date: '2019-06-01 14:16:32'
 intro_paragraph: >-
   There is an art to Tarot, but much can be gained by doing a simple one card
   draw. To give clarity to a situation and help unlock knowledge you already
