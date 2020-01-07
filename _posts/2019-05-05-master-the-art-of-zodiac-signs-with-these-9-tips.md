@@ -2,7 +2,7 @@
 layout: post
 title: Master The Art Of Zodiac Signs With These 9 Tips
 author: dan_urbanowicz
-date: '2020-01-03 14:19:38'
+date: '2019-05-05 14:19:38'
 ---
 Astrology is a complex system that uses the position of planets and stars to gather information about the world. Astrologists study the patterns of planets and stars to help provide guidance.
 
