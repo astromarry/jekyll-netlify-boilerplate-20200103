@@ -2,7 +2,7 @@
 layout: post
 title: What is Reiki?
 author: john_doe
-date: '2020-01-03 12:41:58'
+date: '2019-09-01 12:41:58'
 intro_paragraph: >-
   Reiki is healing method that relies on channeling life force energy, or Chi
   through the hands. According to Reiki theory, we have energy centers located
