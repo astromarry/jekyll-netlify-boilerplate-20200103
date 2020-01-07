@@ -2,7 +2,7 @@
 layout: post
 title: What Everyone Must Know About NUMEROLOGY
 author: dan_urbanowicz
-date: '2020-01-03 14:28:12'
+date: '2019-09-01 14:28:12'
 ---
 Numerology is a divinatory art that is often associated with the occult and astrology. Whereas astrologists use astronomical formations to gain information about the earth, numerologists use numbers.
 
