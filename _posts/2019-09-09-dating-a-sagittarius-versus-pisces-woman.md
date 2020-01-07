@@ -2,7 +2,7 @@
 layout: post
 title: Dating a Sagittarius Versus Pisces Woman
 author: dan_urbanowicz
-date: '2020-01-03 14:29:39'
+date: '2019-09-09 14:29:39'
 intro_paragraph: '![Dating](/assets/img/uploads/am_photos_10_ml3wjh-1-.jpg)'
 ---
 What woman are you dating today?
