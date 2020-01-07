@@ -2,7 +2,7 @@
 layout: post
 title: Thinking Gifting? V-Day Gift Ideas by Zodiac Sign
 author: dan_urbanowicz
-date: '2020-01-03 13:16:52'
+date: '2019-12-01 13:16:52'
 intro_paragraph: >-
   Finding the perfect gift can be an intimidating process, especially on
   Valentine’s Day. How do you know what you should get your partner on this
