@@ -2,7 +2,7 @@
 layout: post
 title: Spiritual Incantations can Strengthen Belief (And Help You Reach Goals)
 author: dan_urbanowicz
-date: '2020-01-03 12:28:59'
+date: '2019-12-05 12:28:59'
 intro_paragraph: Do you believe in Spirituality?
 ---
 Affirmations, prayer, and spells involve incantations, otherwise known as chants or a series of words. They have been in use since the early days of civilization and evidence of their existence can be found on ancient artifacts. Eons ago, incantations were often designed to bring about good luck or curse people, but they were also used for spiritual purposes.
