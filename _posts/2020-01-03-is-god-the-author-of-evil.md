@@ -2,7 +2,7 @@
 layout: post
 title: Is God the Author of Evil?
 author: dan_urbanowicz
-date: '2020-01-03 14:49:07'
+date: '2019-12-12 14:49:07'
 intro_paragraph: '![](/assets/img/uploads/1_xnsiyzx4owq8rxiocnte2g-1-.jpeg)'
 ---
 Is God the author of evil? Did he sit back and devise evil plans for his creation in order to bring suffering upon them? These questions and many others like them are echoed in the minds of those wanting to know the truth about God’s nature, and God’s omniscient involvement in creation. If God is not the author of evil, then why is there so much suffering, pain, disease, and famine, in the world?
