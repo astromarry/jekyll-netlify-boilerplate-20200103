@@ -9,6 +9,24 @@ intro_paragraph: >-
 
   <br>
 
+  <div class="table-responsive">          
+    <table class="table">
+      <thead>
+        <tr>
+          <th>
+                            <div class="im-checkout-layout layout-71"> <div class="layout-vertical"> <div
+                    class="im-checkout btn-71"> <a
+                    href="https://www.instamojo.com/@askpysch/lc4687382795c4ebe8a03457bbc138d17/"
+                    class="im-checkout-btn btn--default" target="_blank" rel="modal"
+                    style="color:#000000; background:#fccb00; width:180px; border-radius:4px;
+                    opacity: 1 !important; font-size: larger !important; padding: 20px
+                    !important;">Pay ₹1499</a></div> </div> </div>
+          </th>
+          <th>Firstname</th>
+        </tr>
+      </thead>
+    </table>
+  </div>
 
   <div class="im-checkout-layout layout-71"> <div class="layout-vertical"> <div
   class="im-checkout btn-71"> <a
