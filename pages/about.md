@@ -25,7 +25,7 @@ intro_paragraph: >-
           <th>
               <div class="im-checkout-layout layout-71"> <div class="layout-vertical"> <div
               class="im-checkout btn-71"> <a
-              href="https://www.paypal.com/paypalme2/keysome/29"
+              href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TRPX2SDXSUPTA"
               class="im-checkout-btn btn--default" target="_blank" rel="modal"
               style="color:#000000; background:#00bfff; width:180px; border-radius:4px;
               opacity: 1 !important; font-size: larger !important; padding: 20px
