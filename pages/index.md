@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Discover Yourselves
+title: Discover Your Destiny
 permalink: /
 section: home
 intro_paragraph: >-
