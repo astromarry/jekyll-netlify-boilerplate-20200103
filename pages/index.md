@@ -32,8 +32,8 @@ intro_paragraph: >
                     style="color:#000000; background:#fccb00; width:180px; border-radius:4px;
                     opacity: 1 !important; font-size: larger !important; padding: 20px
                     !important;">Pay ₹750</a></div> </div> </div>
-          </th>
-          <th>
+          </td>
+          <td>
               <div class="im-checkout-layout layout-71"> <div class="layout-vertical"> <div
               class="im-checkout btn-71"> <a
               href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TRPX2SDXSUPTA"
@@ -41,11 +41,13 @@ intro_paragraph: >
               style="color:#000000; background:#00bfff; width:180px; border-radius:4px;
               opacity: 1 !important; font-size: larger !important; padding: 20px
               !important;">Pay $28</a></div> </div> </div> 
+   </td>
+  </tr>
 
-          </th>
-        </tr>
-      </thead>
-    </table>
+  </thead>
+
+  </table>
+
   </div>
 
 
