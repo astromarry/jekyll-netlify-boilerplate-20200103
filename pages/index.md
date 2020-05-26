@@ -20,13 +20,11 @@ intro_paragraph: >
   Click here to pay for our services. 
 
 
-  <br>
-
-  <div class="table-responsive">          
-    <table class="table">
+  <br>      
+    <table class="table table-responsive">
       <thead>
         <tr>
-          <th>    
+          <td>    
                     <div class="im-checkout-layout layout-71"> <div class="layout-vertical"> <div
                     class="im-checkout btn-71"> <a
                     href="https://imjo.in/N3FyyZ"
