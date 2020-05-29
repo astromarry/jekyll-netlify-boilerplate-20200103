@@ -31,13 +31,17 @@ intro_paragraph: >-
               opacity: 1 !important; font-size: larger !important; padding: 20px
               !important;">Pay $28</a></div> </div> </div> 
 
-          </th>
-        </tr>
-      </thead>
-    </table>
+  </th>
+
+  </tr>
+
+  </thead>
+
+  </table>
+
   </div>
 
-  
+
 
 
   <br>
