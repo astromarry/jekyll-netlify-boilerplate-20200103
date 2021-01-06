@@ -13,7 +13,7 @@ intro_paragraph: >-
     <table class="table">
       <thead>
         <tr>
-          <th>    
+        <!---  <th>    
                     <div class="im-checkout-layout layout-71"> <div class="layout-vertical"> <div
                     class="im-checkout btn-71"> <a
                     href="https://imjo.in/BPgjp8"
@@ -31,7 +31,7 @@ intro_paragraph: >-
               opacity: 1 !important; font-size: larger !important; padding: 20px
               !important;">Pay $28</a></div> </div> </div> 
 
-          </th>
+          </th> -->
         </tr>
       </thead>
     </table>
