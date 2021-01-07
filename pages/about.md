@@ -4,7 +4,7 @@ title: Services
 permalink: /about
 section: about
 intro_paragraph: >-
-  Click here to pay for our services. 
+  
 
 
   <br>
@@ -13,6 +13,8 @@ intro_paragraph: >-
     <table class="table">
       <thead>
         <tr>
+          <!---Click here to pay for our services. -->
+          
         <!---  <th>    
                     <div class="im-checkout-layout layout-71"> <div class="layout-vertical"> <div
                     class="im-checkout btn-71"> <a
